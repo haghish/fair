@@ -1,6 +1,6 @@
 <a href="https://github.com/haghish/fair"><img src='man/figures/logo.PNG' align="right" height="200" /></a>
 
-`fair` : Machine Learning Fairness Evaluation and Classification Parity Testing
+`fair` : Machine Learning Fairness and Classification Parity Assessment
 ===============================================================================
 
 **`fair`** provides a set of functions for evaluating classification parity, not only for general classification models, but also for classification models of severely imbalanced outcome. 
